@@ -1,0 +1,1 @@
+.gallery_list .gallery_item:first-child:last-child{width:100%}@media screen and (max-width: 991px){.gallery_list .gallery_item{width:50%}}@media screen and (min-width: 992px) and (max-width: 1439px){.gallery_list .gallery_item{width:33.333%}}@media screen and (min-width: 1440px){.gallery_list .gallery_item{width:25%}}
